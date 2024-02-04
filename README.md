@@ -7,13 +7,13 @@ To run this project, you will need:
 - Java SDK-17 or higher
 - Jmusic_Stable or higher
 
-      ## System Requirements
-To run pygame, your system should meet the following specifications:
-
-- OS: 64-bit Windows 7 or later or OS X 10.11 or later
-- Processor: Dual-core or faster
-- Memory: 4GB (4,096MB) RAM
-- Free HDD space:  >3GB
+  ## System Requirements
+      To run pygame, your system should meet the following specifications:
+      
+      - OS: 64-bit Windows 7 or later or OS X 10.11 or later
+      - Processor: Dual-core or faster
+      - Memory: 4GB (4,096MB) RAM
+      - Free HDD space:  >3GB
 
 ## Usage
 To run this project, simply execute the main.java file with JRE:
