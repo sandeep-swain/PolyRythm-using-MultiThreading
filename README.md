@@ -8,7 +8,7 @@ To run this project, you will need:
 - Jmusic_Stable or higher
 
   ## System Requirements
-      To run pygame, your system should meet the following specifications:
+      To run , your system should meet the following specifications:
       
       - OS: 64-bit Windows 7 or later or OS X 10.11 or later
       - Processor: Dual-core or faster
